@@ -30,7 +30,7 @@ Die Website bietet eine Vielzahl von Funktionen, die es den Benutzern ermöglich
 
 - **Zufällige Fragen**: Der Benutzer kann den Lernmodus starten, bei dem Fragen aus einem ausgewählten Stapel zufällig angezeigt werden. Der Benutzer versucht die Frage zu beantworten und kann dann die Antwort einblenden, um sich selbst zu überprüfen.
 - **Richtige/Falsche Markierung**: Der Benutzer kann angeben, ob er die Frage korrekt beantwortet hat oder nicht, um seinen Lernfortschritt nachzuverfolgen.
-- **Mehrere Lernstrategien**: Die App bietet möglicherweise verschiedene Lernmodi, wie etwa:
+- **Mehrere Lernstrategien**: Die Website bietet möglicherweise verschiedene Lernmodi, wie etwa:
 - **Lernmodus mit Wiederholung**: Fragen, die falsch beantwortet wurden, werden häufiger wiederholt, um den Fokus auf schwächere Bereiche zu legen.
 - **Abfrage-Modus**: Ein Modus, bei dem alle Karten einmal durchlaufen werden, ohne Wiederholungen.
 
